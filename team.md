@@ -1,6 +1,6 @@
 Team Members:
 
 *Maya
-*Bob
+*Bob Dai
 *SaLeya
 *Ben
