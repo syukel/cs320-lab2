@@ -1,1 +1,3 @@
-# cs320-lab2
+# Fantastic Solutions Inc.
+
+We solve all your problems, guaranteed!
