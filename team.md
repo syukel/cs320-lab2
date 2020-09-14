@@ -1,6 +1,10 @@
+
 Team Members:
 
-*Maya
+
+*Maya Tunney
 *Bob Dai
 *SaLeya
 *Ben
+*Guest
+
